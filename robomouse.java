@@ -1,6 +1,6 @@
 package org.randy;
 // Java program to demonstrate working of Robot 
-// class. This program is for Windoes. It opens 
+// class. This program is for Windows. It opens 
 // notepad and types a message. 
 import java.awt.AWTException; 
 import java.awt.Robot; 
